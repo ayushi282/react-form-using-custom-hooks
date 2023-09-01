@@ -1,4 +1,4 @@
-Spearmint: TASK FOR SENIOR FRONT END 
+
 
 Conditional Logic Form with Redux and Custom Hooks
 Objective: Create a form in React that displays fields based on conditional logic using Redux for state management and custom Hooks for logic encapsulation.
